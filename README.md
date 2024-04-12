@@ -1,4 +1,4 @@
-# Your Name (or Username)
+# Vinaya Dasepalli
 
 A passionate IT professional with 14 years of experience in both Manual and Automation testing across web, mobile OS, and Hardware. I also enjoy developing Android apps using the Ionic framework.
 
