@@ -15,4 +15,4 @@ A passionate IT professional with 14 years of experience in both Manual and Auto
 
 I've created a few Android apps using Ionic. Check them out on the Google Play Store: [Dasepalli Apps](https://play.google.com/store/apps/developer?id=Dasepalli+Apps)
 
-**Connect with me:** =======>
+**Connect with me:** ======> loading <======
